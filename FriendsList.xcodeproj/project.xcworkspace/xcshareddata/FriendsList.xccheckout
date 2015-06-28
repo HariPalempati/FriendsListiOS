@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0E65D173-D614-48C1-8202-A17CB8151F9E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FriendsList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>276067693FB57F72EFEB9748AC9B09EA7A18ACE0</key>
+		<string>https://github.com/HariPalempati/FriendsListiOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FriendsList.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>276067693FB57F72EFEB9748AC9B09EA7A18ACE0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HariPalempati/FriendsListiOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>276067693FB57F72EFEB9748AC9B09EA7A18ACE0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>276067693FB57F72EFEB9748AC9B09EA7A18ACE0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FriendsList</string>
+		</dict>
+	</array>
+</dict>
+</plist>
